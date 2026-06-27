@@ -10,7 +10,6 @@ A clean, structured web application designed to simulate and manage interactive 
 * **Optimized Event Handling:** Implements performant, lightweight vanilla JavaScript loops and logic.
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 * **Architecture:** Single-file, client-side web application (All-in-one HTML)
 * **Structure:** HTML5 (Semantic web layout)
 * **Styling:** CSS3 (Featuring modern CSS Custom Variables and Flexbox/Grid layouts)
@@ -18,8 +17,7 @@ A clean, structured web application designed to simulate and manage interactive 
 
 ## 📁 File Structure
 * `mypet.html` - The primary entry point containing the structural layout, core UI styles, and application logic.
-* `.gitignore` - Configuration file to prevent tracking of local system files and IDE configurations.
-
+* 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
