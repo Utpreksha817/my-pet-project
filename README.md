@@ -10,8 +10,11 @@ A clean, structured web application designed to simulate and manage interactive 
 * **Optimized Event Handling:** Implements performant, lightweight vanilla JavaScript loops and logic.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3
-* **Scripting:** JavaScript (ES6+)
+## 🛠️ Tech Stack
+* **Architecture:** Single-file, client-side web application (All-in-one HTML)
+* **Structure:** HTML5 (Semantic web layout)
+* **Styling:** CSS3 (Featuring modern CSS Custom Variables and Flexbox/Grid layouts)
+* **Logic:** Vanilla JavaScript (ES6+ standard utilizing native DOM manipulation and Object State tracking)
 
 ## 📁 File Structure
 * `mypet.html` - The primary entry point containing the structural layout, core UI styles, and application logic.
