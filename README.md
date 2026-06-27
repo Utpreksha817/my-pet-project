@@ -17,7 +17,7 @@ A clean, structured web application designed to simulate and manage interactive 
 
 ## 📁 File Structure
 * `mypet.html` - The primary entry point containing the structural layout, core UI styles, and application logic.
-* 
+  
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
